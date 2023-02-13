@@ -1,4 +1,4 @@
-# Eye Of The Machine (TIC-80)
+# Eye of the Machine (TIC-80)
 
 (Still rebuilding/commenting)
 
