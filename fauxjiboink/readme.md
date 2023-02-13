@@ -2,9 +2,13 @@
 
 (Still rebuilding/commenting)
 
+## Overview
+
 A modern take on an old classic.
 
-Original by Michael Park (for Xanth F/X) [DemoZoo](https://demozoo.org/productions/98557/) [YouTube](https://www.youtube.com/watch?v=b2asVg4kBuI)
+Original by Michael Park (for Xanth F/X) [[DemoZoo](https://demozoo.org/productions/98557/)] [[YouTube](https://www.youtube.com/watch?v=b2asVg4kBuI)]
+
+## History
 
 Released at [Lovebyte 2023](https://demozoo.org/productions/319318/)
 
