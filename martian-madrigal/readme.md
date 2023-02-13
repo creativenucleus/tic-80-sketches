@@ -1,4 +1,8 @@
+# Martian Madrigal
+
 An experiment with sound, personality, and sizecoding.
+
+## Overview
 
 Code should be pretty easy to follow.  
 
@@ -9,15 +13,21 @@ Code should be pretty easy to follow.
 - Drawing the aliens (right/back to left/front), shifting them around to respect the voice volume.
 - Decay the volume for each alien.
 
+## History
+
 Released at [Lovebyte 2023](https://demozoo.org/productions/319383/)
 
+## Play!
+
 If you pick this up, you could try:
+
 - Mixing in the amazing [TIC-80 FFT hack](https://github.com/glastonbridge/TIC-80/releases)
 - Different sound waves - this was not possible (I don't think!) for the 256 byte compo, but square, sin, sawtooth, noise and blends all give nice character differentiation.
 - Different harmonies
 - Other character styles
 
-Thanks:
+## Thanks
+
 - [TIC-80](https://tic80.com/)
 - [Veikko Sariola / Pakettic contributors](https://github.com/vsariola/pakettic)
 - [Lovebyte team](https://lovebyte.party/)
