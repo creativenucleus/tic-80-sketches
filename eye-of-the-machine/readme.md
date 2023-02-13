@@ -26,6 +26,8 @@ You could try:
 
 Beware: The video output is not very compression friendly, so it'll mash broadcast codecs and make large MP4 recordings, etc.
 
+*DO* Get in touch and show me if you make anything! Contact details [here](https://github.com/creativenucleus/tic-80-sketches/blob/main/readme.md#contact)
+
 ## Thanks
 
 - [TIC-80](https://tic80.com/)
