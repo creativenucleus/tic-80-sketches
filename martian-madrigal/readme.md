@@ -26,6 +26,8 @@ If you pick this up, you could try:
 - Different harmonies
 - Other character styles
 
+*DO* Get in touch and show me if you make anything! Contact details [here](https://github.com/creativenucleus/tic-80-sketches/blob/main/readme.md#contact)
+
 ## Thanks
 
 - [TIC-80](https://tic80.com/)
