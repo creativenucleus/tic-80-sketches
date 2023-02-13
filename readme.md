@@ -8,6 +8,13 @@ Please play, and please let me know if you enjoy, or build anything neat based u
 
 Open for collabs if you're into these kind of effects.
 
+## Contents
+
+- Feb 2023: [Martian Madrigal](./tree/main/martian-madrigal) - An alien barbershop quartet
+- Feb 2023: [Eye of the Machine](./tree/main/eye-of-the-machine) - A chaotic cyber/organic eyeball
+- Feb 2023: [FauxjiBoink!](./tree/main/fauxjiboink) - A modern take on the classic Atari FujiBoink demo
+- Jan 2023: [Jelly Hearts](./tree/main/jelly-hearts) - Glass-like zooming sprites
+
 ## Contact
 
 - [@jtruk@mastodon.social / Mastodon](https://mastodon.social/@jtruk)
