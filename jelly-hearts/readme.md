@@ -14,6 +14,10 @@ The hearts whirl around screen, scaling up and down. The bigger they are, the fu
 
 Released at [Lovebyte (New Talent) 2023](https://demozoo.org/productions/317939/)
 
+## Play!
+
+*DO* Get in touch and show me if you make anything! Contact details [here](https://github.com/creativenucleus/tic-80-sketches/blob/main/readme.md#contact)
+
 ## Thanks
 
 - [TIC-80](https://tic80.com/)
