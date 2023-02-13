@@ -10,10 +10,10 @@ Open for collabs if you're into these kind of effects.
 
 ## Contents
 
-- Feb 2023: [Martian Madrigal](./tree/main/martian-madrigal) - An alien barbershop quartet
-- Feb 2023: [Eye of the Machine](./tree/main/eye-of-the-machine) - A chaotic cyber/organic eyeball
-- Feb 2023: [FauxjiBoink!](./tree/main/fauxjiboink) - A modern take on the classic Atari FujiBoink demo
-- Jan 2023: [Jelly Hearts](./tree/main/jelly-hearts) - Glass-like zooming sprites
+- Feb 2023: [Martian Madrigal](/martian-madrigal) - An alien barbershop quartet
+- Feb 2023: [Eye of the Machine](./eye-of-the-machine) - A chaotic cyber/organic eyeball
+- Feb 2023: [FauxjiBoink!](fauxjiboink) - A modern take on the classic Atari FujiBoink demo
+- Jan 2023: [Jelly Hearts](jelly-hearts/) - Glass-like zooming sprites
 
 ## Contact
 
