@@ -10,6 +10,7 @@ Open for collabs if you're into these kind of effects.
 
 ## Contents
 
+- Mar 2023: [Dotcube](./dotcube) - A floating 3D dot cube, with jazzy background (needs the FFT build of TIC-80)
 - Feb 2023: [Martian Madrigal](./martian-madrigal) - An alien barbershop quartet
 - Feb 2023: [Eye of the Machine](./eye-of-the-machine) - A chaotic cyber/organic eyeball
 - Feb 2023: [FauxjiBoink!](./fauxjiboink) - A modern take on the classic Atari FujiBoink demo
