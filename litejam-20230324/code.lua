@@ -1,4 +1,4 @@
--- Lite Jam (a personal Byte Jam)
+-- Lyte Jam (a personal Byte Jam)
 -- Needs the fft build of TIC80 to run
 
 mCos=math.cos
