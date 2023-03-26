@@ -24,7 +24,7 @@ end
 
 That structure could sit at the top of any code and TIC-80 would either use the built-in `fft` or, if not available, this default.
 
-The code in this repo is a bit more complicated than just inserting an fft function - it has a harness that allows you to switch between fake and real FFT responses. If you run it on a non-FFT build and try the fft call, it won't fail.
+The code in this repo is a bit more complicated than just inserting an fft function - it has a harness that allows you to switch between fake and real FFT responses to compare them. You can run it on a non-FFT build of TIC-80 and it won't fail (but the FFT:Real option won't do anything).
 
 ## History
 
@@ -32,9 +32,9 @@ Released (Just for fun): 26 Mar 2023
 
 ## Play!
 
-The function at the moment is super rough. The spectrum curve isn't like real music, other than it has a periodic beat (adjustable with a local `bpm` variable), and it decays off as you head towards the high end... lots of room for improvement!
+The function at the moment is super rough. The individual response values and curve don't look like real music, other than it has a periodic beat (adjustable with a local `bpm` variable) and it decays off as you head towards the high end... lots of room for improvement!
 
-I'm sure it could be improved. I'd also like to ensure it stays small. Suggestions / forks welcome!
+There's *plenty* of scope for improvement. I'd also like to ensure it stays small. Suggestions / forks welcome!
 
 *DO* Get in touch and show me if you make anything! Contact details [here](https://github.com/creativenucleus/tic-80-sketches/blob/main/readme.md#contact)
 
