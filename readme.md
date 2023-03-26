@@ -11,6 +11,7 @@ Open for collabs if you're into these kind of effects.
 ## Contents
 
 - Mar 2023: [Fake FFT](./fake-fft) - A fake `fft` function as a fallback for versions of TIC-80 that don't have it.
+- Mar 2023: [Lyte Jam / Mar 24](./lytejam-20230324) - A wobbly fake-rotozoom effect with FFT bars and trippy colours.
 - Mar 2023: [Dotcube](./dotcube) - A floating 3D dot cube, with jazzy background (needs the FFT build of TIC-80)
 - Feb 2023: [Martian Madrigal](./martian-madrigal) - An alien barbershop quartet
 - Feb 2023: [Eye of the Machine](./eye-of-the-machine) - A chaotic cyber/organic eyeball
