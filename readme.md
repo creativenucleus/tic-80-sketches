@@ -11,7 +11,7 @@ Open for collabs if you're into these kind of effects.
 ## Contents
 
 - Mar 2023: [Lyte Jam / Mar 30](./lytejam-20230330) - Inspired by [Orbital](https://www.orbitalofficial.com/) - a flying shapes tunnel.  
-  [![Orbital effect](https://user-images.githubusercontent.com/567996/229347340-7081dcad-9775-44ce-92cf-0ee5b595bc2d.gif)](https://user-images.githubusercontent.com/567996/229346989-8b02d147-87be-4ce4-b083-6ff42f24c749.mp4 "Orbital effect")
+  [![Orbital effect](https://user-images.githubusercontent.com/567996/229347340-7081dcad-9775-44ce-92cf-0ee5b595bc2d.gif)  Click for video](https://user-images.githubusercontent.com/567996/229346989-8b02d147-87be-4ce4-b083-6ff42f24c749.mp4 "Orbital effect")
 - Mar 2023: [Fake FFT](./fake-fft) - A fake `fft` function as a fallback for versions of TIC-80 that don't have it.
 - Mar 2023: [Lyte Jam / Mar 24](./lytejam-20230324) - A wobbly fake-rotozoom effect with FFT bars and trippy colours.  
   [![TIC-80 effect](https://user-images.githubusercontent.com/567996/229347708-82b6e99d-e2d2-4ec2-966b-dd4e2c63fdfa.gif)](https://user-images.githubusercontent.com/567996/229347709-3a8b916e-d5bc-46fa-97e7-81eba3f4e634.mp4 "TIC-80 effect")
