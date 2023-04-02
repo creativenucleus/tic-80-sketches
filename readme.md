@@ -19,9 +19,11 @@ Open for collabs if you're into these kind of effects.
   [![TIC-80 effect](https://user-images.githubusercontent.com/567996/229347928-0e0684af-a1a7-4c71-bc43-252aa400e861.gif)  Click for video](https://user-images.githubusercontent.com/567996/229347925-fd087022-3d54-4c31-abb5-d544f23b8f92.mp4 "TIC-80 effect")
 - Mar 2023: [Lyte Jam / Mar 15](./lytejam-20230315) - Colourful tube worms. They look so purposeful!
 - Mar 2023: [Byte Jam / Mar 13](./bytejam-20230313) - Robot conveyor.
-- Mar 2023: [Dotcube](./dotcube) - A floating 3D dot cube, with jazzy background (needs the FFT build of TIC-80).
+- Mar 2023: [Dotcube](./dotcube) - A floating 3D dot cube, with jazzy background (needs the FFT build of TIC-80).  
+  [![TIC-80 effect](https://user-images.githubusercontent.com/567996/229348163-49509aa9-3ce2-46ca-b24d-0189857fcd7c.gif)  Click for video](https://user-images.githubusercontent.com/567996/229348165-fdf58819-0ef0-40ca-9aef-01fa34a387fd.mp4 "TIC-80 effect")
 - Feb 2023: [Byte Jam / Feb 20](./bytejam-20230220) - Robot disco.
-- Feb 2023: [Martian Madrigal](./martian-madrigal) - An alien barbershop quartet.
+- Feb 2023: [Martian Madrigal](./martian-madrigal) - An alien barbershop quartet.  
+  [![TIC-80 effect](https://user-images.githubusercontent.com/567996/229348437-e101b924-4e0c-41a1-8849-db61d6dd1156.gif)  Click for video](https://user-images.githubusercontent.com/567996/229348340-32c04a6f-b1a0-402b-aec6-b599357effde.mp4 "TIC-80 effect")
 - Feb 2023: [Eye of the Machine](./eye-of-the-machine) - A chaotic cyber/organic eyeball.
 - Feb 2023: [FauxjiBoink!](./fauxjiboink) - A modern take on the classic Atari FujiBoink demo.
 - Jan 2023: [Jelly Hearts](./jelly-hearts) - Glassy zooming sprites.
@@ -31,4 +33,4 @@ Open for collabs if you're into these kind of effects.
 - [@jtruk@mastodon.social / Mastodon](https://mastodon.social/@jtruk)
 - [@jtruk / Twitter](https://twitter.com/jtruk)
 - [Hire me!](https://www.creativenucleus.com)
-- 
+
