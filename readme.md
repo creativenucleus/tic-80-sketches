@@ -92,6 +92,7 @@ A chaotic cyber/organic eyeball.
 A modern take on the classic Atari FujiBoink demo.
 
 - [Project / Code](./fauxjiboink)
+- [On tic80.com](https://tic80.com/play?cart=3297)
 
 [![TIC-80 effect](https://user-images.githubusercontent.com/567996/229348932-f57722dc-c2cf-4163-bc48-58f130c59269.gif)  Click for video](https://user-images.githubusercontent.com/567996/229349144-263a0816-ca38-4442-830c-a9c3c231b8bd.mp4 "TIC-80 effect")
 
