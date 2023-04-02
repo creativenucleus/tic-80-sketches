@@ -24,7 +24,8 @@ Open for collabs if you're into these kind of effects.
 - Feb 2023: [Byte Jam / Feb 20](./bytejam-20230220) - Robot disco.
 - Feb 2023: [Martian Madrigal](./martian-madrigal) - An alien barbershop quartet.  
   [![TIC-80 effect](https://user-images.githubusercontent.com/567996/229348437-e101b924-4e0c-41a1-8849-db61d6dd1156.gif)  Click for video](https://user-images.githubusercontent.com/567996/229348340-32c04a6f-b1a0-402b-aec6-b599357effde.mp4 "TIC-80 effect")
-- Feb 2023: [Eye of the Machine](./eye-of-the-machine) - A chaotic cyber/organic eyeball.
+- Feb 2023: [Eye of the Machine](./eye-of-the-machine) - A chaotic cyber/organic eyeball.  
+  [![TIC-80 effect](https://user-images.githubusercontent.com/567996/229348650-14026e85-b8dd-44e6-be8a-f28150934831.gif)  Click for video](https://user-images.githubusercontent.com/567996/229348655-dd771a85-1641-440b-a00f-0166472ff6df.mp4 "TIC-80 effect")
 - Feb 2023: [FauxjiBoink!](./fauxjiboink) - A modern take on the classic Atari FujiBoink demo.
 - Jan 2023: [Jelly Hearts](./jelly-hearts) - Glassy zooming sprites.
 
@@ -33,4 +34,3 @@ Open for collabs if you're into these kind of effects.
 - [@jtruk@mastodon.social / Mastodon](https://mastodon.social/@jtruk)
 - [@jtruk / Twitter](https://twitter.com/jtruk)
 - [Hire me!](https://www.creativenucleus.com)
-
