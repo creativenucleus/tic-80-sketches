@@ -16,7 +16,7 @@ Open for collabs if you're into these kind of effects.
 - Mar 2023: [Lyte Jam / Mar 24](./lytejam-20230324) - A wobbly fake-rotozoom effect with FFT bars and trippy colours.  
   [![TIC-80 effect](https://user-images.githubusercontent.com/567996/229347708-82b6e99d-e2d2-4ec2-966b-dd4e2c63fdfa.gif)  Click for video](https://user-images.githubusercontent.com/567996/229347709-3a8b916e-d5bc-46fa-97e7-81eba3f4e634.mp4 "TIC-80 effect")
 - Mar 2023: [Lyte Jam / Mar 16](./lytejam-20230316) - Small circles stencilled on top of a zooming concentric circle, with wobble and palette shift.  
-  [![TIC-80 effect](https://user-images.githubusercontent.com/567996/229347928-0e0684af-a1a7-4c71-bc43-252aa400e861.gif)  Click to view](https://user-images.githubusercontent.com/567996/229347925-fd087022-3d54-4c31-abb5-d544f23b8f92.mp4 "TIC-80 effect")
+  [![TIC-80 effect](https://user-images.githubusercontent.com/567996/229347928-0e0684af-a1a7-4c71-bc43-252aa400e861.gif)  Click for video](https://user-images.githubusercontent.com/567996/229347925-fd087022-3d54-4c31-abb5-d544f23b8f92.mp4 "TIC-80 effect")
 - Mar 2023: [Lyte Jam / Mar 15](./lytejam-20230315) - Colourful tube worms. They look so purposeful!
 - Mar 2023: [Byte Jam / Mar 13](./bytejam-20230313) - Robot conveyor.
 - Mar 2023: [Dotcube](./dotcube) - A floating 3D dot cube, with jazzy background (needs the FFT build of TIC-80).
