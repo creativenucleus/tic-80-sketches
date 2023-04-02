@@ -28,7 +28,8 @@ Open for collabs if you're into these kind of effects.
   [![TIC-80 effect](https://user-images.githubusercontent.com/567996/229348650-14026e85-b8dd-44e6-be8a-f28150934831.gif)  Click for video](https://user-images.githubusercontent.com/567996/229348655-dd771a85-1641-440b-a00f-0166472ff6df.mp4 "TIC-80 effect")
 - Feb 2023: [FauxjiBoink!](./fauxjiboink) - A modern take on the classic Atari FujiBoink demo.  
   [![TIC-80 effect](https://user-images.githubusercontent.com/567996/229348932-f57722dc-c2cf-4163-bc48-58f130c59269.gif)  Click for video](https://user-images.githubusercontent.com/567996/229349144-263a0816-ca38-4442-830c-a9c3c231b8bd.mp4 "TIC-80 effect")
-- Jan 2023: [Jelly Hearts](./jelly-hearts) - Glassy zooming sprites.
+- Jan 2023: [Jelly Hearts](./jelly-hearts) - Glassy zooming sprites.  
+  [![TIC-80 effect](https://user-images.githubusercontent.com/567996/229349245-e323b741-3c6d-4315-8fae-6b14970c2f56.gif)  Click for video](https://user-images.githubusercontent.com/567996/229349246-e709c4c8-2783-4802-8a84-09213d2192de.mp4 "TIC-80 effect")
 
 ## Contact
 
