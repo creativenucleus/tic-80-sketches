@@ -28,8 +28,8 @@ The code in this repo is a bit more complicated than just inserting an fft funct
 
 ## History
 
-26 Mar 2023: Released (Just for fun)
-3 Apr 2023: Some improvement to the FFT function
+- 26 Mar 2023: Released (Just for fun)
+- 3 Apr 2023: Some improvement to the FFT function
 
 ## Play!
 
