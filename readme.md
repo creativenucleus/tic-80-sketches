@@ -24,6 +24,9 @@ A fake `fft` function as a fallback for versions of TIC-80 that don't have it.
 
 - [Project / Code](./fake-fft)
 
+https://user-images.githubusercontent.com/567996/229523790-7f747fc5-dcfc-45e5-966d-29fd51584818.mp4
+
+
 ### Mar 2023: Lyte Jam / Mar 24
 
 A wobbly fake-rotozoom effect with FFT bars and trippy colours.
