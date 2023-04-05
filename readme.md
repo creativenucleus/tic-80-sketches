@@ -16,7 +16,7 @@ A DNA twisting effect. Fits into 255 bytes when compressed.
 
 - [Project / Code](./sizecode-20230405)
 
-(https://user-images.githubusercontent.com/567996/230115294-3601745c-677a-40eb-aee8-4d736e5e4d77.mp4 "DNA Effect")
+https://user-images.githubusercontent.com/567996/230115294-3601745c-677a-40eb-aee8-4d736e5e4d77.mp4
 
 ### Mar 2023: Lyte Jam / Mar 30
 
