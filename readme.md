@@ -24,6 +24,9 @@ A fake `fft` function as a fallback for versions of TIC-80 that don't have it.
 
 - [Project / Code](./fake-fft)
 
+https://user-images.githubusercontent.com/567996/229523790-7f747fc5-dcfc-45e5-966d-29fd51584818.mp4
+
+
 ### Mar 2023: Lyte Jam / Mar 24
 
 A wobbly fake-rotozoom effect with FFT bars and trippy colours.
@@ -47,6 +50,7 @@ Colourful tube worms. They look so purposeful!
 - [Project / Code](./lytejam-20230315)
 
 [![TIC-80 effect](https://user-images.githubusercontent.com/567996/229349479-324d2fe4-4bd2-494a-9a31-437bec5ac883.gif)  Click for video](https://user-images.githubusercontent.com/567996/229349482-5dfc852c-5202-48cf-a974-fa2ecd34d410.mp4 "TIC-80 effect")  
+
 
 [![TIC-80 effect](https://user-images.githubusercontent.com/567996/229349485-99723048-5aa6-43ac-9dda-d7363919ddb5.gif)  Click for video](https://user-images.githubusercontent.com/567996/229349489-01e1f5a0-922f-4a26-a976-299be5e8c843.mp4 "TIC-80 effect")
 
