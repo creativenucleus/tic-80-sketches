@@ -10,6 +10,26 @@ Open for collabs if you're into these kind of effects.
 
 ## Contents
 
+### April 2023: Byte Jam / Apr 17
+
+Some stars on top of a colourful background. Uses both vbanks and some smooth colouring.
+
+I broke the Byte Jam version when I tried to make it 3D, and also made a big error in the final pass effect, but spent another hour or so polishing it into the thing that was in my head, so there's a jam version and a director's cut here!
+
+- [Project / Code](./bytejam-20230417)
+
+### April 2023: Livecoding Experiment / Apr 17
+
+Inspired by some livecoded visuals/music I've seen, I've coaxed TIC-80 into showing an effect underneath the code that's running it.
+
+- [Project / Code](./livecoding)
+
+### April 2023: Ready Error One / Apr 8
+
+An entry into Revision 2023 demoparty's Wild competition. Music by Mantratronic.
+
+- [Project / Code](./readyerrorone)
+
 ### April 2023: Size Coding / Apr 5
 
 A DNA twisting effect. Fits into 255 bytes when compressed.
