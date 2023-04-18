@@ -34,6 +34,7 @@ An entry into Revision 2023 demoparty's Wild competition. Music by Mantratronic.
 
 - [Project / Code](./readyerrorone)
 
+Click to watch on YouTube:  
 [![Watch the video](https://user-images.githubusercontent.com/567996/232862033-fec86f63-e95a-482b-ad75-3cd9c2cbec8b.jpg)](https://www.youtube.com/watch?v=jBA7xwnnrWs)
 
 ### April 2023: Size Coding / Apr 5
