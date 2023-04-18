@@ -18,17 +18,23 @@ I broke the Byte Jam version when I tried to make it 3D, and also made a big err
 
 - [Project / Code](./bytejam-20230417)
 
+https://user-images.githubusercontent.com/567996/232861072-2fe2d2dc-3f6e-4b8f-bed7-1d9586f05373.mp4
+
 ### April 2023: Livecoding Experiment / Apr 17
 
 Inspired by some livecoded visuals/music I've seen, I've coaxed TIC-80 into showing an effect underneath the code that's running it.
 
 - [Project / Code](./livecoding)
 
+![livecoding](https://user-images.githubusercontent.com/567996/232860774-6438e9d5-e595-4644-aa39-4e1f4644c4db.gif)
+
 ### April 2023: Ready Error One / Apr 8
 
 An entry into Revision 2023 demoparty's Wild competition. Music by Mantratronic.
 
 - [Project / Code](./readyerrorone)
+
+https://www.youtube.com/watch?v=jBA7xwnnrWs
 
 ### April 2023: Size Coding / Apr 5
 
