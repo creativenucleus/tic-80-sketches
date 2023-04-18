@@ -25,6 +25,7 @@ https://user-images.githubusercontent.com/567996/232861072-2fe2d2dc-3f6e-4b8f-be
 Inspired by some livecoded visuals/music I've seen, I've coaxed TIC-80 into showing an effect underneath the code that's running it.
 
 - [Project / Code](./livecoding)
+- [On tic80.com](https://tic80.com/play?cart=3320)
 
 ![livecoding](https://user-images.githubusercontent.com/567996/232860774-6438e9d5-e595-4644-aa39-4e1f4644c4db.gif)
 
