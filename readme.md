@@ -34,8 +34,7 @@ An entry into Revision 2023 demoparty's Wild competition. Music by Mantratronic.
 
 - [Project / Code](./readyerrorone)
 
-[![Watch the video](https://img.youtube.com/vi/jBA7xwnnrWs/default.jpg)](https://www.youtube.com/watch?v=jBA7xwnnrWs)
-
+[![Watch the video](https://user-images.githubusercontent.com/567996/232862033-fec86f63-e95a-482b-ad75-3cd9c2cbec8b.jpg)](https://www.youtube.com/watch?v=jBA7xwnnrWs)
 
 ### April 2023: Size Coding / Apr 5
 
@@ -60,7 +59,6 @@ A fake `fft` function as a fallback for versions of TIC-80 that don't have it.
 - [Project / Code](./fake-fft)
 
 https://user-images.githubusercontent.com/567996/229523790-7f747fc5-dcfc-45e5-966d-29fd51584818.mp4
-
 
 ### Mar 2023: Lyte Jam / Mar 24
 
