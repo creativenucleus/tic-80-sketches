@@ -8,7 +8,13 @@ Please play, and please let me know if you enjoy, or build anything neat based u
 
 Open for collabs if you're into these kind of effects.
 
-## Contents
+## Contact
+
+- [@jtruk@mastodon.social / Mastodon](https://mastodon.social/@jtruk)
+- [@jtruk / Twitter](https://twitter.com/jtruk)
+- [Hire me!](https://www.creativenucleus.com)
+
+## Sketches
 
 ### April 2023: Byte Jam / Apr 17
 
@@ -142,9 +148,3 @@ Glassy zooming sprites.
 - [Project / Code](./jelly-hearts)
 
 [![TIC-80 effect](https://user-images.githubusercontent.com/567996/229349245-e323b741-3c6d-4315-8fae-6b14970c2f56.gif)  Click for video](https://user-images.githubusercontent.com/567996/229349246-e709c4c8-2783-4802-8a84-09213d2192de.mp4 "TIC-80 effect")
-
-## Contact
-
-- [@jtruk@mastodon.social / Mastodon](https://mastodon.social/@jtruk)
-- [@jtruk / Twitter](https://twitter.com/jtruk)
-- [Hire me!](https://www.creativenucleus.com)
