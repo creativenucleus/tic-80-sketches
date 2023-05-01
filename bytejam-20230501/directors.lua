@@ -3,6 +3,8 @@
 -- Little tweaks for the director's cut:
 -- Teeth
 -- A bit more wobble on the mouth opening
+-- A small update to the background
+-- Double font size
 
 S,C,A=math.sin,math.cos,math.atan2
 
