@@ -16,6 +16,17 @@ Open for collabs if you're into these kind of effects.
 
 ## Sketches
 
+### May 2023: Byte Jam / May 1
+
+A Byte Jame return for the [Martian Madrigal](#feb-2023-martian-madrigal).
+
+Pretty happy with this one, so no major Director's Cut re-edit. Requires the FFT build of TIC-80, or the [Fake FFT shim](#mar-2023-fake-fft).
+
+- [Project / Code](./bytejam-20230501)
+
+https://user-images.githubusercontent.com/567996/235526238-fc20caa7-9e65-4c0a-a6b0-a7a564a6a87f.mp4
+
+
 ### April 2023: Byte Jam / Apr 17
 
 Some stars on top of a colourful background. Uses both vbanks and some smooth colouring.
