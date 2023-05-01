@@ -18,7 +18,7 @@ Open for collabs if you're into these kind of effects.
 
 ### May 2023: Byte Jam / May 1
 
-A Byte Jame return for the [Martian Madrigal](#feb-2023-martian-madrigal).
+A Byte Jam return for the [Martian Madrigal](#feb-2023-martian-madrigal).
 
 Pretty happy with this one, so no major Director's Cut re-edit. Requires the FFT build of TIC-80, or the [Fake FFT shim](#mar-2023-fake-fft).
 
