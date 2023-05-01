@@ -22,6 +22,8 @@ A Byte Jame return for the [Martian Madrigal](#feb-2023-martian-madrigal).
 
 Pretty happy with this one, so no major Director's Cut re-edit. Requires the FFT build of TIC-80, or the [Fake FFT shim](#mar-2023-fake-fft).
 
+There are a few variables that may benefit from tweaking if you need to match it to music (the FFT ranges, boosting, voice decay, etc).
+
 - [Project / Code](./bytejam-20230501)
 
 https://user-images.githubusercontent.com/567996/235526238-fc20caa7-9e65-4c0a-a6b0-a7a564a6a87f.mp4
