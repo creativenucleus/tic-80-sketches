@@ -25,6 +25,18 @@ Placed 3rd in the [256b Newskool Competition](https://demozoo.org/parties/4627/#
 
 https://github.com/creativenucleus/tic-80-sketches/assets/567996/62d848ba-31e9-4fda-9582-e457890556f7
 
+### May 2023: Byte Jam / May 15
+
+Some bouncy cubes.
+
+This was an attempt to do some structured palette switching. Usually I do some gradient colourwash, but this has bands across the screen in vbank0 and vbank1.
+
+The technique works, and I think can be tuned and explored.
+
+- [Project / Code](./bytejam-20230515)
+
+https://github.com/creativenucleus/tic-80-sketches/assets/567996/4a42aaae-d11a-43ff-8ac8-bbd4388213a9
+
 ### May 2023: Byte Jam / May 1
 
 A Byte Jam return for the [Martian Madrigal](#feb-2023-martian-madrigal).
@@ -36,8 +48,6 @@ There are a few variables that may benefit from tweaking if you need to match it
 - [Project / Code](./bytejam-20230501)
 
 https://user-images.githubusercontent.com/567996/235526238-fc20caa7-9e65-4c0a-a6b0-a7a564a6a87f.mp4
-
-
 
 ### April 2023: Byte Jam / Apr 17
 
