@@ -16,6 +16,15 @@ Open for collabs if you're into these kind of effects.
 
 ## Sketches
 
+### May 2023: Unicorn Blend #256 (Outline 23) / May 18
+
+Placed 3rd in the [256b Newskool Competition](https://demozoo.org/parties/4627/#competition_17919).
+
+- [Project / Code](./outline-2023)
+- [On tic80.com](https://tic80.com/play?cart=3367)
+
+https://github.com/creativenucleus/tic-80-sketches/assets/567996/62d848ba-31e9-4fda-9582-e457890556f7
+
 ### May 2023: Byte Jam / May 1
 
 A Byte Jam return for the [Martian Madrigal](#feb-2023-martian-madrigal).
@@ -27,6 +36,7 @@ There are a few variables that may benefit from tweaking if you need to match it
 - [Project / Code](./bytejam-20230501)
 
 https://user-images.githubusercontent.com/567996/235526238-fc20caa7-9e65-4c0a-a6b0-a7a564a6a87f.mp4
+
 
 
 ### April 2023: Byte Jam / Apr 17
