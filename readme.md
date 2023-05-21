@@ -31,7 +31,8 @@ Some bouncy cubes.
 
 This was an attempt to do some structured palette switching. Usually I do some gradient colourwash, but this has bands across the screen in vbank0 and vbank1.
 
-The technique works, and I think can be tuned and explored.
+The technique works, and I think can be tuned and explored.  
+Your periodic reminder that TIC-80 allows 16 colours on screen at once. Double that if you use vbank1, and you can have 16 per line if you mess with the palette in the BDR() call.
 
 - [Project / Code](./bytejam-20230515)
 
