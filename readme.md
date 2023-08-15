@@ -16,6 +16,16 @@ Open for collabs if you're into these kind of effects.
 
 ## Sketches
 
+### August 2023: Byte Jam / August 14
+
+A colourful, building vine/tentacle effect made from triangles.
+
+This worked quite well. The colour effect was a last minute addition and I think I could do more with movement, but overall happy with that!
+
+- [Project / Code](./bytejam-20230814)
+
+https://github.com/creativenucleus/tic-80-sketches/assets/567996/0a1589bb-9899-4024-967b-b74b4c534eda
+
 ### May 2023: Unicorn Blend #256 (Outline 23) / May 18
 
 Placed 3rd in the [256b Newskool Competition](https://demozoo.org/parties/4627/#competition_17919).
