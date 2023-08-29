@@ -20,7 +20,7 @@ Open for collabs if you're into these kind of effects.
 
 A recreation of this week's most famous photo - the Trump mug shot.
 
-![Donald Trump Portrait](https://github.com/creativenucleus/tic-80-sketches/assets/567996/6e3be6de-975d-485c-a7f2-c6e679d93ca4)
+https://github.com/creativenucleus/tic-80-sketches/assets/567996/8c230f8d-5cd5-4fe5-b5cf-934e6aa70832
 
 I wanted to do something a bit different and hacked together a bootstrapping bit of code that allowed me to click around the screen a few times to make a polygon shape, which would then dump to the trace log, so I could copy+paste it back into the code. The Byte Jam version of TIC doesn't send mouse actions to the server, so this technique was a bit invisible to viewers.
 
