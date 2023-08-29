@@ -16,11 +16,30 @@ Open for collabs if you're into these kind of effects.
 
 ## Sketches
 
+### August 2023: Byte Jam / August 28 (Study #P01135809)
+
+A recreation of this week's most famous photo - the Trump mug shot.
+
+![Donald Trump Portrait](https://github.com/creativenucleus/tic-80-sketches/assets/567996/6e3be6de-975d-485c-a7f2-c6e679d93ca4)
+
+I wanted to do something a bit different and hacked together a bootstrapping bit of code that allowed me to click around the screen a few times to make a polygon shape, which would then dump to the trace log, so I could copy+paste it back into the code. The Byte Jam version of TIC doesn't send mouse actions to the server, so this technique was a bit invisible to viewers.
+
+I try to avoid being too political - partly because it can be divisive and partly because it's hard to say anything new... but everyone loves a wobbly Trump, and many like the look of prison bars.
+
+Bonus: A pre-jam holding page featuring a sketchy recreation of jazz-painter Bob Ross.
+
+![bob-ross](https://github.com/creativenucleus/tic-80-sketches/assets/567996/3e3e3200-5504-49d6-844e-56b27b53d70c)
+
+- [Project / Code](./bytejam-20230828)
+
+
 ### August 2023: Byte Jam / August 14
 
 A colourful, building vine/tentacle effect made from triangles.
 
 This worked quite well. The colour effect was a last minute addition and I think I could do more with movement, but overall happy with that!
+
+Bonus: A pre-jam holding page featuring mix-ups of the words 'Byte' and 'Jam'.
 
 - [Project / Code](./bytejam-20230814)
 
