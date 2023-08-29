@@ -64,7 +64,7 @@ function TIC()
  vbank(0)
  cls()
  for i=1,#TF do
-  drawTrifan(TF[i],i,-move*15*(1-fade))
+  drawTrifan(TF[i],i,-move*14*(1-fade))
  end
 
 	drawScratch()
@@ -110,20 +110,20 @@ function TIC()
  vbank(1)
  cls()
 	if fade<.5 then
-	 local xofs=20+move*15
+	 local xofs=20+move*8
 
 	 for x=-20,240,40 do
 	  rect(x+xofs,0,10,137,15)
 	  rect(x+xofs+2,0,3,137,14)
 	 end
 	
-	 elli(xofs+12,120,10,20,9)
-	 elli(xofs+190,120,10,20,9)
+	 elli(xofs+10,134,10,30,9)
+	 elli(xofs+192,134,10,30,9)
 	 elli(xofs+12,110,5,13,3)
 	 elli(xofs+190,110,5,13,3)
 	 for y=0,3 do
-		 elli(xofs+20,100+y*6,12,2,3)
-		 elli(182+xofs,100+y*6,12,2,3)
+		 elli(xofs+20,98+y*6,10,2,3)
+		 elli(182+xofs,98+y*6,10,2,3)
 	 end
 
 		for y=0,135 do
