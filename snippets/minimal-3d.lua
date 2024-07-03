@@ -36,8 +36,8 @@ function TIC()
 			local lrY=0 --T*.03
 			local lrZ=0 --T*.08
 
-			-- c = colour (checkerboard)
-		 local c=1+(ltX+ltZ)%2
+            -- c = colour (checkerboard)
+            local c=1+(ltX+ltZ)%2
 
 			drawTile(
 				{x=lrX,y=lrY,z=lrZ},
