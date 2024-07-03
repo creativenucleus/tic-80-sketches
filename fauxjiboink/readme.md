@@ -1,6 +1,6 @@
 # FauxjiBoink! (TIC-80)
 
-(Still rebuilding/commenting)
+(Still rebuilding/commenting - timing's a bit broke!)
 
 ## Overview
 
@@ -11,6 +11,10 @@ Original by Michael Park (for Xanth F/X) [[DemoZoo](https://demozoo.org/producti
 ## History
 
 Released at [Lovebyte 2023](https://demozoo.org/productions/319318/)
+
+## Play!
+
+*DO* Get in touch and show me if you make anything! Contact details [here](https://github.com/creativenucleus/tic-80-sketches/blob/main/readme.md#contact)
 
 ## Thanks
 
