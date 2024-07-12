@@ -23,26 +23,26 @@ function TIC()
 	CAMZ=-9
 	CAMY=-1.5
  
- drawFloor()
- drawSpheres({x=0,y=-2,z=0},3,T*.05)
+	drawFloor()
+	drawSpheres({x=0,y=-2,z=0},3,T*.05)
 end
 
 function drawSpheres(centre,radius,t)
- local nSpheres=5
- for i=1,nSpheres do
-  local aOfTau=(i/nSpheres)*TAU
-  local a=aOfTau+t
-  local p={
-  	x=COS(a)*radius,
-   y=SIN(aOfTau+t*2),
-   z=SIN(a)*radius,
-  }
-
+	local nSpheres=5
+	for i=1,nSpheres do
+		local aOfTau=(i/nSpheres)*TAU
+		local a=aOfTau+t
+		local p={
+			x=COS(a)*radius,
+			y=SIN(aOfTau+t*2),
+			z=SIN(a)*radius,
+		}
+	
 		p=trans(p,centre)
 		p=proj(p)
 		local size=MIN(MAX(20*p.z,.1),40)
 		circ(p.x,p.y,size,12)
- end
+	end
 end
 
 function drawFloor()	
