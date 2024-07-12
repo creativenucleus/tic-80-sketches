@@ -11,7 +11,10 @@
 -- make some local aliases - for clean code and speed!
 local SIN,COS,PI=math.sin,math.cos,math.pi
 local MIN,MAX=math.min,math.max
+
+-- 0-TAU is a full circle for SIN/COS
 local TAU=2*PI
+
 local CAMX,CAMY,CAMZ=0,0,0
 
 function TIC()
@@ -30,16 +33,19 @@ end
 function drawSpheres(centre,radius,t)
 	local nSpheres=5
 	for i=1,nSpheres do
-		local aOfTau=(i/nSpheres)*TAU
-		local a=aOfTau+t
+		local angle=(i/nSpheres)*TAU
+		local a=angle+t
 		local p={
 			x=COS(a)*radius,
-			y=SIN(aOfTau+t*2),
+			y=SIN(angle+t*2), -- a little tilt!
 			z=SIN(a)*radius,
 		}
 	
 		p=trans(p,centre)
 		p=proj(p)
+
+		-- max so that circles are always drawn
+		-- min so that they don't get ridiculously big 
 		local size=MIN(MAX(20*p.z,.1),40)
 		circ(p.x,p.y,size,12)
 	end
@@ -150,6 +156,11 @@ end
 -- Project a point p(x,y,z) in 3D space
 -- 120,68 is the pixel centre of the screen
 -- All the rest are magic numbers
+-- As the distance from the camera gets bigger
+-- zD gets smaller, but by diminishing amounts
+-- which means x and y get closer to the
+-- screen centre, but by diminishing amounts
+-- as the object gets further away.
 function proj(p)
 	local projScale=2
 	local zD=projScale/(p.z-CAMZ)
