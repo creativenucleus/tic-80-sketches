@@ -24,7 +24,7 @@ function TIC()
 	poke(0x3ffb,0)
 	draw(1)
 	grabScreen()
-
+	
 	vbank(0)
 	cls()
 	draw(0)
@@ -37,31 +37,31 @@ function TIC()
 end
 
 function draw(side)
- local off=side*10
- local c=side+1
- for i=0,10 do
- 	local a=i*.5+T*.02
-  local x=math.sin(a*.6)
-  local y=math.cos(a)
-  local z=5+math.sin(T*.02-i*.4+T*.02)*4.5
+	local off=side*10
+	local c=side+1
+	for i=0,10 do
+		local a=i*.5+T*.02
+		local x=math.sin(a*.6)
+		local y=math.cos(a)
+		local z=5+math.sin(T*.02-i*.4+T*.02)*4.5
 		local p=proj({x=x,y=y,z=z})
 		if p.z>0 then
 			local s=math.min(100,p.z*10)
-	  circ(p.x+off*(1/z),p.y,s,c)
+			circ(p.x+off*(1/z),p.y,s,c)
 		end
- end
+	end
 end
 
 function grabScreen()
- for i=0,32640 do
+	for i=0,32640 do
 		GRAB[i]=peek4(i)
- end
+	end
 end
 
-function	mixScreen()
- for i=0,32640 do
+function mixScreen()
+	for i=0,32640 do
 		poke4(i,peek4(i)|GRAB[i])
- end
+	end
 end	
 
 function proj(p)
